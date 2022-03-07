@@ -4,12 +4,31 @@
 }
 .kz-input-text {
   margin-top: 3px;
-  width:96%;
-margin-left:6px
+  width: 96%;
+  margin-left: 6px;
 }
 .kz-pad-20 {
-padding: 20px;
+  padding: 20px;
 }
-.col-xs-3, .col-xs-9 {
-padding: 0px;
+.col-xs-3,
+.col-xs-9 {
+  padding: 0px;
 }
+.row-calculator {
+  justify-content: center;
+  align-items: center;
+  height: 42.3rem;
+  background-image: linear-gradient(to bottom right, navy, aqua);
+}
+.div-main{
+  display:flex;
+  justify-content:center
+}
+
+h1{
+  color: #fff;
+}
+.screen-calculator {
+  text-align: end;
+}
+
